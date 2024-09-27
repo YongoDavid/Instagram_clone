@@ -19,6 +19,8 @@ Authentication Provides secure authentication services, allowing you to easily m
 like email/password,this will help verify users to be able to signing and login with the help of react-firebase-hooks.
 Fire storage is a service for storing and serving user-generated content such as images, videos, and other large files ,
 in this case the users posts.
+This application has been hosted on render and can be viewed through the url
+
 ## Installation
 Here are some of the packages that will be installed in this application :
 chakra-ui/icons and @chakra-ui/react 
