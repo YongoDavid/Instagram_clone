@@ -32,6 +32,8 @@ zustand
 ## Usage
 TO Use this project run these commands :
 "npm intall" (to install all dependencies)
+This project was built with vite instead of noraml REACT.
+So in this case we use the command below to start our development server
 "npm run dev" (to start the vite server)
 ### The Core Team
 
