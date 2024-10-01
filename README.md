@@ -2,7 +2,9 @@
 This project is about creating a clone of Instagram.
 To do so, you will have to use ReactJS and Firebase.
 Here are th list of uusers yoou can use to login and test this application with :
-email : david63@gmail.com , password : david63
+email : david63@gmail.com , password : david63.
+You can also go ahead and create your own user.
+
 
 ## Task
 in this application I am handing the backend functions with firebase.
